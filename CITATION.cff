@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+authors:
+  - family-names: Liu
+    given-names: Pengqi
+  - family-names: Ying
+    given-names: Hao
+  - family-names: Yin
+    given-names: Yulong
+  - family-names: Gong
+    given-names: Haiqing
+  - family-names: Wang
+    given-names: Zihan
+  - family-names: Pan
+    given-names: Chang
+  - family-names: Chen
+    given-names: Zhong
+  - family-names: Shi
+    given-names: Qingwen
+  - family-names: Ding
+    given-names: Yi
+  - family-names: Cui
+    given-names: Zhenling
+title: Data and code for the manuscript "AI-derived soil phosphorus thresholds reveal global opportunities for phosphorus fertilizer reduction in croplands"
+version: 1.0.0
+date-released: 2026-03-30
+url: "https://github.com/liupengqi/Phosphorus-threshold"
