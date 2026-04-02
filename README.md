@@ -18,7 +18,7 @@ China Agricultural University, Beijing 100193, China
 
 Zhenling Cui: cuizl@cau.edu.cn  
 Hao Ying: yingrl@163.com  
-Yulong Yin: yinyl@163.com
+Yulong Yin: yinyl@cau.edu.cn
 
 ## Overview
 
