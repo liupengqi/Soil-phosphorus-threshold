@@ -6,7 +6,7 @@ This repository contains the code and data used for the analysis in the manuscri
 
 ## Authors
 
-Pengqi Liu, Hao Ying, Yulong Yin, Haiqing Gong, Zihan Wang, Chang Pan, Zhong Chen, Qingwen Shi, Yi Ding, and Zhenling Cui
+Pengqi Liu, Hao Chen, Meng Wang, Hao Ying, Yulong Yin, Haiqing Gong, Zihan Wang, Chang Pan, Zhong Chen, Qingwen Shi, Yi Ding, and Zhenling Cui
 
 State Key Laboratory of Nutrient Use and Management,  
 Key Laboratory of Plant–Soil Interactions, Ministry of Education,  
@@ -89,13 +89,6 @@ These simulations were used to assess the global potential to reduce phosphorus 
 - The repository is intended to support transparency and reproducibility of the analysis.
 - Some original input datasets come from external public databases and should be cited according to their original sources.
 - If you use this repository, please also cite the associated manuscript.
-
-## Citation
-
-If you use this code or data, please cite:
-
-**Liu, P., Ying, H., Yin, Y., Gong, H., Wang, Z., Pan, C., Chen, Z., Shi, Q., Ding, Y., & Cui, Z.**  
-*AI-derived soil phosphorus thresholds reveal global opportunities for phosphorus fertilizer reduction in croplands.*
 
 ## Code availability
 
